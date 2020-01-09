@@ -5,3 +5,7 @@ This year (2019/2020) the goal of the project is to develop a video analysis ser
 
 # Module2_VehicleDetection
 This module is responsible, from the images extracted by the [preprocessing module](https://github.com/VALDOM-PROJET-TRANSVERSE-2019/Module1_VideoPreprocessing), for detecting the vehicles on the images and for generating the corresponding metadata.
+
+
+# Test Commit
+This is the first commit to check that git pull/push is working great.
