@@ -14,6 +14,7 @@ This module is responsible, from the images extracted by the [preprocessing modu
 ## Output
 - frame_contours: the list containing the bounding boxes in the corresponding frame
 
+
 Team:
 Achraf HAMID
 Aymen GHARBI
