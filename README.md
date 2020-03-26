@@ -11,6 +11,7 @@ This module is responsible, from the images extracted by the [preprocessing modu
 ## Input
 - video_id: a reference of the short video which going to be processed (request parameter "v")
 Example: (video_id: ZrVOcehCyCw) 
+
 ![github-small](https://user-images.githubusercontent.com/52794646/77646950-d4281c80-6f65-11ea-9219-bf6f6b0c37c6.png)
 
 ## Output
