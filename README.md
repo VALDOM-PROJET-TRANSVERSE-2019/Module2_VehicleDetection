@@ -9,10 +9,10 @@ This module is responsible, from the images extracted by the [preprocessing modu
 
 # Interface
 ## Input
-- frames_path: a string with the path where are the frames which will be used to process
+- video_id: a reference of the short video which going to be processed (request parameter "v")
 
 ## Output
-- frame_contours: the list containing the bounding boxes in the corresponding frame
+![github-small](https://user-images.githubusercontent.com/52794646/77646791-801d3800-6f65-11ea-9a33-8d18793e01b0.png)
 
 
 Team:
